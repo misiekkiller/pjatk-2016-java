@@ -1,0 +1,5 @@
+enumy
+klasa narzędziowa np. StringBuilder i StringBuffer (klasy!).
+Da się za ich pomoca budowac i zwracać Stringa, mogą mutować. String nie może mutować.
+
+parametryzowanie klas i metod
