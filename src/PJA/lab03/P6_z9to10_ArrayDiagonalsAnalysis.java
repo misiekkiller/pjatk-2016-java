@@ -64,7 +64,9 @@ public class P6_z9to10_ArrayDiagonalsAnalysis {
             for (int j = 0, k = tabTwoDim[0].length-1, m = 0; j < tabTwoDim[0].length; j++, k--) {
                 System.out.println("method2 test: " + tabTwoDim[m][j] + " " + tabTwoDim[m][k]);
                 for (int n = 0, o = tabTwoDim[0].length-1; n < tabTwoDim[0].length; n++, o--) {
+                    if (){
 
+                    }
                 }
                 m++;
 
